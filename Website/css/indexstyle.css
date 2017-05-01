@@ -1,0 +1,24 @@
+#reserve{
+	margin-top: 70px;
+	margin-left:10%;
+}
+
+
+
+@media (min-width: 979px) and (max-width: 1090px) {
+		#reserve{
+		margin-top: 150px;
+	}
+}
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+	body{
+		margin-top: 80px;
+	}
+
+	#reserve{
+		margin-top: 200px;
+	}
+}
